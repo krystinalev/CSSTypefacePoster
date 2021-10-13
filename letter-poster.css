@@ -1,9 +1,10 @@
 /*BUKVY*/
 	.БУКВИ{
-		position: relative;
-		left: 39vw;
-		top: 10vw;
+		position: fixed;
+		left: 38.81vw;
+		top: 40vw;
 		font-size: 0.035vw;
+
 	}
 
 		.horizontal-stem-Б2{
@@ -233,7 +234,8 @@
     width:400px; 
     height:400px; 
     position:relative; 
-    margin: 30px; 
+    margin: 30px;
+    top: 500px; 
 }
 
 .point {
@@ -1377,7 +1379,7 @@
 	background: white;
 	width: 30vw;
 	height: 30vw;
-	position: relative;
+	position: fixed;
 	left: 60vw;
 	top:100px;
 	padding: 2.5vw;
